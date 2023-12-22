@@ -1,0 +1,13 @@
+Pillow>=9.3.0
+ftfy
+einops
+braceexpand
+requests
+clip
+omegaconf
+pytorch-lightning
+kornia
+PyYAML
+transformers==4.31.0
+k-diffusion==0.0.15
+git+https://github.com/huggingface/huggingface_hub.git

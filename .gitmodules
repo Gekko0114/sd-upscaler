@@ -1,0 +1,9 @@
+[submodule "src/vendor/stable-diffusion"]
+	path = src/vendor/stable-diffusion
+	url = https://github.com/CompVis/stable-diffusion
+[submodule "src/vendor/taming-transformers"]
+	path = src/vendor/taming-transformers
+	url = https://github.com/CompVis/taming-transformers
+[submodule "src/vendor/latent-diffusion"]
+	path = src/vendor/latent-diffusion
+	url = https://github.com/CompVis/latent-diffusion

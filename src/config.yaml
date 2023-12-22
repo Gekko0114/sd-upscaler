@@ -1,0 +1,17 @@
+prompt: "the temple of fire by Ross Tran and Gerardo Dottori, oil on canvas"
+num_samples: 1
+batch_size: 1
+decoder: "finetuned_840k"
+guidance_scale: 1
+noise_aug_level: 0
+noise_aug_type: "gaussian"
+sampler: "k_dpm_adaptive"
+steps: 50
+tol_scale: 0.25
+eta: 1.0
+seed: 0
+input_image: ""
+save_location: "/content/drive/MyDrive/Colab/stable-diffusion-upscaler/%T-%S-%I-%P.png"
+SD_C: 4
+SD_F: 8
+SD_Q: 0.18215
