@@ -20,5 +20,5 @@ cd sd-upscaler && python ./src/main.py
 You can specify the image and prompt either by passing them as args or by modifying the config.yaml.
 
 ```
-python ./src/main.py --input_image="https://models.rivershavewings.workers.dev/assets/sd_2x_upscaler_demo.png" --prompt="the temple of fire by Ross Tran and Gerardo Dottori, oil on canvas"
+python ./src/main.py --input_image="https://models.rivershavewings.workers.dev/assets/sd_2x_upscaler_demo.png" --prompt="the temple of fire by Ross Tran and Gerardo Dottori, oil on canvas" --seed=1
 ```
